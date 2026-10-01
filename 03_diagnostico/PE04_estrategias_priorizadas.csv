@@ -1,0 +1,13 @@
+ranking,id,Tipo,Factores cruzados,peso_factores,bono,puntaje,Objetivo al que apunta,Proyecto candidato
+1,E-01,FO,F2 + O1 + O2,0.35,1.0,0.35,Aumentar la participacion de pedidos por canal digital al 35% de la cartera,Canal Digital B2B Movil con Motor de Recomendacion
+2,E-07,DO,D1 + O2 + O3,0.29,1.1,0.319,Habilitar la toma de decisiones comerciales y logisticas basada en datos,Gobierno del Dato y Tablero de Inteligencia de Negocios (BI)
+3,E-04,FA,F1 + A1,0.26,1.2,0.312,Retener y blindar al 95% de los clientes clave ante plataformas foraneas,Portal de Trazabilidad de Despachos y Prueba Digital de Entrega
+4,E-05,FA,F4 + A2,0.23,1.2,0.276,Asegurar la continuidad operativa del negocio y cero tiempo de inactividad no planificado,Migracion y Modernizacion de la Plataforma ERP a la Nube
+5,E-12,DA,D6 + A2,0.2,1.35,0.27,Garantizar la resiliencia y recuperacion de desastres con RTO menor a 4 horas y RPO menor a 1 hora,Plan de Continuidad Operativa Copias Inmutables Cloud y DRP
+6,E-10,DA,D2 + A5,0.2,1.35,0.27,Eliminar el riesgo operacional por personodependencia tecnica,Gestion del Conocimiento Repositorios DevOps y Redundancia de Personal TI
+7,E-09,DO,D4 + O2,0.24,1.1,0.264,Reducir el gasto operativo de transporte y combustible en un 18%,Implementacion de Solucion SaaS de Ruteo y Despacho Vehicular
+8,E-08,DO,D3 + O1,0.23,1.1,0.253,Elevar la tasa de adopcion del canal de pedidos digital del 8% al 40% en 18 meses,Rediseno Mobile PWA y Programa de Fidelizacion Digital B2B
+9,E-02,FO,F1 + O4,0.24,1.0,0.24,Reducir el costo unitario de despacho logistico e incrementar cobertura,Sistema de Ruteo Dinamico y Despacho Inteligente
+10,E-06,FA,F2 + A4,0.19,1.2,0.228,Proteger el margen bruto operativo en al menos 4 puntos porcentuales frente al tipo de cambio,Modulo Analitico de Planificacion de Compras y Cobertura de Precios
+11,E-11,DA,D5 + A3,0.16,1.35,0.216,Alcanzar cumplimiento pleno del marco regulatorio de datos personales (D. S. 016-2024-JUS),Programa de Cumplimiento Normativo de Proteccion de Datos y Ciberseguridad
+12,E-03,FO,F4 + O5,0.16,1.0,0.16,Reducir el ciclo operativo de caja y conciliacion a menos de 2 horas diarias,Integracion de Pagos Digitales e Interoperabilidad Financiera

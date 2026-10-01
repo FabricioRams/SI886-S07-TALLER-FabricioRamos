@@ -1,0 +1,65 @@
+================================================================================
+TALLER 07 · EVALUACION DE FACTORES INTERNOS Y EXTERNOS (MATRICES EFI Y EFE)
+Organizacion: Distribuidora Mayorista del Sur S.A.C. (DISUR S.A.C.)
+================================================================================
+
+[1] MATRIZ DE EVALUACION DE FACTORES INTERNOS (EFI)
+--------------------------------------------------------------------------------
+ID    | Factor                                           | Peso   | Calif | Pond  
+--------------------------------------------------------------------------------
+F1    | Red de distribucion logistica propia con flot... | 0.140  | 4     | 0.560 
+F2    | Base historica consolidada de compras y compo... | 0.110  | 4     | 0.440 
+F3    | Cobertura comercial consolidada con red de ag... | 0.080  | 3     | 0.240 
+F4    | Procesos comerciales de despacho y facturacio... | 0.090  | 3     | 0.270 
+D1    | Ausencia total de capacidades analiticas de d... | 0.100  | 1     | 0.100 
+D2    | Extrema personodependencia: un unico desarrol... | 0.120  | 1     | 0.120 
+D3    | Baja adopcion del portal web B2B por minorist... | 0.100  | 2     | 0.200 
+D4    | Gestion del ruteo y asignacion de despachos r... | 0.130  | 1     | 0.130 
+D5    | Carencia de programa de cumplimiento formal d... | 0.070  | 1     | 0.070 
+D6    | Ausencia de redundancia en infraestructura on... | 0.060  | 2     | 0.120 
+--------------------------------------------------------------------------------
+TOTAL PESO: 1.000 (Validacion suma = 1.0: OK)
+TOTAL PONDERADO EFI: 2.250 / 4.000
+
+Interpretacion EFI:
+El total ponderado (2.250) se situa por DEBAJO del promedio neutral (2.500).
+Diagnostico: La organizacion presenta una POSICION INTERNA DEBIL / VULNERABLE.
+Las debilidades operativas (ruteo manual en Excel, dependencia critica de un unico desarrollador,
+ausencia de capacidades analiticas y falta de politicas de datos) superan el valor de sus fortalezas.
+El PETI debe priorizar el saneamiento y estabilizacion de procesos de TI antes de emprender iniciativas expansivas.
+
+
+================================================================================
+[2] MATRIZ DE EVALUACION DE FACTORES EXTERNOS (EFE)
+--------------------------------------------------------------------------------
+ID    | Factor                                           | Peso   | Calif | Pond  
+--------------------------------------------------------------------------------
+O1    | Penetracion y adopcion de smartphones e inter... | 0.130  | 2     | 0.260 
+O2    | Disponibilidad de herramientas SaaS y solucio... | 0.110  | 2     | 0.220 
+O3    | Ecosistema regional de talento tecnico egresa... | 0.080  | 2     | 0.160 
+O4    | Crecimiento sostenido del consumo y actividad... | 0.100  | 3     | 0.300 
+O5    | Politicas de digitalizacion e interoperabilid... | 0.070  | 3     | 0.210 
+A1    | Entrada de plataformas y mayoristas digitales... | 0.120  | 2     | 0.240 
+A2    | Fin de soporte oficial del fabricante para el... | 0.140  | 1     | 0.140 
+A3    | Fiscalizaciones y multas coercitivas de hasta... | 0.090  | 1     | 0.090 
+A4    | Volatilidad cambiaria que encarece adquisicio... | 0.080  | 2     | 0.160 
+A5    | Alta rotacion de profesionales tecnicos en el... | 0.080  | 1     | 0.080 
+--------------------------------------------------------------------------------
+TOTAL PESO: 1.000 (Validacion suma = 1.0: OK)
+TOTAL PONDERADO EFE: 1.860 / 4.000
+
+Interpretacion EFE:
+El total ponderado (1.860) se ubica significativamente por DEBAJO del promedio (2.500).
+Diagnostico: La organizacion demuestra una RESPUESTA DEFICIENTE O INEFICAZ ante el entorno externo.
+A pesar de que existen oportunidades latentes claras (penetracion de smartphones, soluciones SaaS y talento regional),
+la empresa no cuenta con canales ni herramientas para capitalizarlas, encontrandose seriamente expuesta ante
+el fin de soporte de su ERP, las fiscalizaciones punitivas de la ANPD y la fuga de capital humano tecnico.
+
+================================================================================
+SINTESIS DE POSICIONAMIENTO ESTRATEGICO (MATRIZ INTERNA-EXTERNA / IE)
+Coordenada Estrategica: (EFI=2.250, EFE=1.860)
+Cuadrante de Destino: Cuadrante VIII / IX (Retener y Mantener / Cosechar o Desinvertir)
+Postura Estrategica Obligatoria: DEFENSIVA Y DE SUPERVIVENCIA.
+Implicancia para el PETI: Prohibido priorizar proyectos de transformacion o adquisicion agresiva sin antes
+resolver la continuidad operativa (migracion ERP, backup), el cumplimiento legal (ANPD) y la personodependencia.
+================================================================================
